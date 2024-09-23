@@ -1,3 +1,5 @@
+![restful-api-sample](https://github.com/user-attachments/assets/3d90a0e1-80ec-42ef-a9bc-21a536735029)
+
 # RESTful API Sample
 
 This is a sample RESTful API built with the [Google Books API](https://developers.google.com/books), using modern web technologies including React, TypeScript, Next.js, Shadcn, and Tailwind CSS.
